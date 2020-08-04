@@ -1,0 +1,41 @@
+.digit{
+    display: inline;
+    float: left;
+}
+
+body{
+    background-color: black;
+    color: blanchedalmond;
+    margin: auto;
+    position: relative;
+}
+
+#start{
+    margin-top: 500px;
+    left: 100px;
+    width: 100%;
+}
+
+.input{
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+}
+
+#input{
+    width: 100%;
+}
+
+#ok{
+    width: 100%;
+}
+
+#result{
+    width: 100%;
+    margin: 0 auto;
+}
